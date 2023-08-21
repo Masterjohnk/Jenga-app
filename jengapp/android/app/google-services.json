@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28272250725",
+    "project_id": "washly-da639",
+    "storage_bucket": "washly-da639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28272250725:android:3301c1d12e4c5d27fa9b8c",
+        "android_client_info": {
+          "package_name": "co.agile.jengapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28272250725-5ri988tslfadhg40ndfh48kv7v0pujai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyiCPr4qL-JhsVi5WpjIisCSVbApRGbFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28272250725-5ri988tslfadhg40ndfh48kv7v0pujai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
